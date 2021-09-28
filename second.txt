@@ -1,2 +1,2 @@
-Hello this is second file in source dir
+This is 2nd file target dir
 
