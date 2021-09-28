@@ -1,2 +1,2 @@
-This is 9th file in source dir
+This is 9th file in target dir
 

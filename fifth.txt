@@ -1,2 +1,2 @@
-Tthis is 5th file
+This is fifth file in target dir
 

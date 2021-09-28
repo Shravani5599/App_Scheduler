@@ -1,2 +1,2 @@
-Hello this is fourth file in source directory.
+This is 4t file in target dir
 

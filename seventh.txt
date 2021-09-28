@@ -1,2 +1,2 @@
-This is 7th file in source dir
+This is 7th file in target dir.
 
