@@ -1,0 +1,2 @@
+This is last file in source dir. After this i will create new files in target dir
+
